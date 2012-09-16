@@ -1,0 +1,501 @@
+Basic Materials,2012-NaN-16,,NBR,1991-02-28,23414,Oil & Gas Drilling & Exploration
+Financial,2012-NaN-16,,FHN,1990-03-26,4728,Regional - Southeast Banks
+Basic Materials,2012-NaN-16,,ANR,2005-02-15,13500,Industrial Metals & Minerals
+Healthcare,2012-NaN-16,,AGN,1989-06-22,10500,Drug Manufacturers - Other
+Consumer Goods,2012-NaN-16,,COH,2000-NaN-06,10000,Textile - Apparel Footwear & Accessories
+Services,2012-NaN-16,,TWC,2007-01-10,47300,CATV Systems
+Basic Materials,2012-NaN-16,,MUR,1983-04-06,3176,Oil & Gas Refining & Marketing
+Financial,2012-NaN-16,,SPG,1993-12-14,3300,REIT - Retail
+Basic Materials,2012-NaN-16,,MRO,1970-01-02,3322,Oil & Gas Refining & Marketing
+Basic Materials,2012-NaN-16,,DD,1962-01-02,70000,Chemicals - Major Diversified
+Industrial Goods,2012-NaN-16,,DHI,1992-06-05,3010,Residential Construction
+Technology,2012-NaN-16,,DELL,1988-08-17,106700,Personal Computers
+Services,2012-NaN-16,,ROST,1986-07-09,14900,Apparel Stores
+Financial,2012-NaN-16,,PBCT,1990-03-26,4788,Savings & Loans
+Technology,2012-NaN-16,,TEL,2007-06-14,95000,Diversified Electronics
+Technology,2012-NaN-16,,IGT,1990-03-26,4600,Multimedia & Graphics Software
+Financial,2012-NaN-16,,BAC,1986-05-29,275500,Money Center Banks
+Utilities,2012-NaN-16,,XEL,1985-NaN-24,11312,Electric Utilities
+Financial,2012-NaN-16,,PRU,2001-12-14,50104,Life Insurance
+Services,2012-NaN-16,,WU,2006-NaN-02,8000,Business Services
+Technology,2012-NaN-16,,BMC,1990-03-26,6900,Application Software
+Healthcare,2012-NaN-16,,DGX,1996-12-26,42000,Medical Laboratories & Research
+Services,2012-NaN-16,,SPLS,1990-03-26,51542,"Specialty Retail, Other"
+Consumer Goods,2012-NaN-16,,TSN,1986-07-09,115000,Meat Products
+Industrial Goods,2012-NaN-16,,RSG,1998-07-01,30000,Waste Management
+Financial,2012-NaN-16,,C,1977-01-03,261000,Money Center Banks
+Financial,2012-NaN-16,,SCHW,1989-06-30,13700,Investment Brokerage - National
+Basic Materials,2012-NaN-16,,HES,1983-04-06,14350,Oil & Gas Refining & Marketing
+Technology,2012-NaN-16,,BRCM,1998-04-17,9590,Semiconductor - Integrated Circuits
+Financial,2012-NaN-16,,CMA,1990-03-26,9037,Regional - Midwest Banks
+Healthcare,2012-NaN-16,,WPI,1993-02-17,6686,Drugs - Generic
+Services,2012-NaN-16,,TWX,1992-03-19,34000,Entertainment - Diversified
+Healthcare,2012-NaN-16,,EW,2000-06-23,7800,Medical Appliances & Equipment
+Services,2012-NaN-16,,CHRW,1997-NaN-16,8353,Air Delivery & Freight Services
+Basic Materials,2012-NaN-16,,PSX,2012-04-12,12400,Oil & Gas Refining & Marketing
+Healthcare,2012-NaN-16,,BCR,1983-04-06,12100,Medical Instruments & Supplies
+Financial,2012-NaN-16,,MET,2000-06-23,67000,Life Insurance
+Consumer Goods,2012-NaN-16,,LO,2008-06-10,2800,Cigarettes
+Technology,2012-NaN-16,,AKAM,1999-NaN-29,2380,Internet Information Providers
+Industrial Goods,2012-NaN-16,,FLR,2000-12-22,43087,Heavy Construction
+Financial,2012-NaN-16,,ETFC,1996-08-16,3240,Investment Brokerage - National
+Basic Materials,2012-NaN-16,,APD,1983-04-06,18500,Chemicals - Major Diversified
+Financial,2012-NaN-16,,LNC,1984-NaN-05,8564,Life Insurance
+Consumer Goods,2012-NaN-16,,DPS,2008-05-07,19000,Beverages - Soft Drinks
+Technology,2012-NaN-16,,AMD,1983-03-21,11100,Semiconductor - Broad Line
+Financial,2012-NaN-16,,USB,1987-11-05,62529,Regional - Midwest Banks
+Consumer Goods,2012-NaN-16,,BLL,1984-NaN-07,15000,Packaging & Containers
+Consumer Goods,2012-NaN-16,,NWL,1984-07-19,19900,Housewares & Accessories
+Utilities,2012-NaN-16,,TEG,1988-01-05,4619,Gas Utilities
+Consumer Goods,2012-NaN-16,,KO,1962-01-02,146200,Beverages - Soft Drinks
+Utilities,2012-NaN-16,,POM,1987-01-02,5104,Electric Utilities
+Basic Materials,2012-NaN-16,,COG,1990-02-08,529,Independent Oil & Gas
+Industrial Goods,2012-NaN-16,,NOC,1981-12-31,72500,Aerospace/Defense - Major Diversified
+Utilities,2012-NaN-16,,AES,1991-06-26,27000,Electric Utilities
+Services,2012-NaN-16,,OMC,1990-03-26,70600,Advertising Agencies
+Technology,2012-NaN-16,,HPQ,1962-01-02,349600,Diversified Computer Systems
+Technology,2012-NaN-16,,ADI,1984-07-19,9200,Semiconductor - Integrated Circuits
+Utilities,2012-NaN-16,,FE,1997-11-10,17257,Electric Utilities
+Services,2012-NaN-16,,AN,1992-03-03,19400,Auto Dealerships
+Industrial Goods,2012-NaN-16,,DOV,1985-07-01,34000,Diversified Machinery
+Utilities,2012-NaN-16,,DUK,1983-04-06,18249,Electric Utilities
+Financial,2012-NaN-16,,DFS,2007-06-14,11650,Credit Services
+Financial,2012-NaN-16,,RF,1990-03-26,26813,Regional - Southeast Banks
+Consumer Goods,2012-NaN-16,,WHR,1983-06-10,68231,Appliances
+Services,2012-NaN-16,,CBS,2006-01-03,20915,Broadcasting - TV
+Financial,2012-NaN-16,,UNM,1986-11-06,9400,Accident & Health Insurance
+Financial,2012-NaN-16,,FII,1998-05-14,1351,Asset Management
+Services,2012-NaN-16,,JCP,1982-01-04,159000,Department Stores
+Services,2012-NaN-16,,TJX,1988-01-05,168000,Department Stores
+Services,2012-NaN-16,,DISCA,2005-07-08,4600,CATV Systems
+Financial,2012-NaN-16,,AXP,1977-04-01,62500,Credit Services
+Basic Materials,2012-NaN-16,,NFX,1993-11-12,1643,Independent Oil & Gas
+Basic Materials,2012-NaN-16,,MON,2000-NaN-24,20600,Agricultural Chemicals
+Healthcare,2012-NaN-16,,GILD,1992-01-22,4500,Biotechnology
+Utilities,2012-NaN-16,,AEE,1998-01-02,9323,Diversified Utilities
+Services,2012-NaN-16,,LOW,1985-07-01,161000,Home Improvement Stores
+Technology,2012-NaN-16,,T,1984-07-19,242380,Telecom Services - Domestic
+Consumer Goods,2012-NaN-16,,PEP,1977-01-03,297000,Beverages - Soft Drinks
+Technology,2012-NaN-16,,SYMC,1990-03-26,20500,Security Software & Services
+Services,2012-NaN-16,,HOT,1987-11-05,154000,Lodging
+null
+Basic Materials,2012-NaN-16,,PX,1992-06-17,26184,Synthetics
+Technology,2012-NaN-16,,EMC,1988-12-16,53600,Data Storage Devices
+Healthcare,2012-NaN-16,,STJ,1989-12-07,16000,Medical Appliances & Equipment
+Services,2012-NaN-16,,AMZN,1997-05-16,56200,Catalog & Mail Order Houses
+Basic Materials,2012-NaN-16,,NBL,1982-01-04,1876,Independent Oil & Gas
+Financial,2012-NaN-16,,PLD,1997-11-21,1457,REIT - Industrial
+Basic Materials,2012-NaN-16,,MPC,2011-06-24,24210,Oil & Gas Refining & Marketing
+Consumer Goods,2012-NaN-16,,MKC,1990-03-26,9000,Processed & Packaged Goods
+Technology,2012-NaN-16,,CBE,1982-01-04,25786,Diversified Electronics
+Industrial Goods,2012-NaN-16,,MAS,1983-06-10,31000,General Building Materials
+Technology,2012-NaN-16,,SNDK,1995-11-08,3939,Data Storage Devices
+Technology,2012-NaN-16,,CTXS,1995-12-08,6936,Business Software & Services
+Financial,2012-NaN-16,,KIM,1991-11-22,685,REIT - Retail
+Basic Materials,2012-NaN-16,,LYB,2010-04-28,14000,Specialty Chemicals
+Services,2012-NaN-16,,PCLN,1999-03-31,6400,General Entertainment
+Financial,2012-NaN-16,,PNC,1988-NaN-07,45940,Money Center Banks
+Services,2012-NaN-16,,MCK,1994-11-15,37700,Drugs Wholesale
+Services,2012-NaN-16,,WMT,1972-08-25,2200000,"Discount, Variety Stores"
+Services,2012-NaN-16,,ABC,1995-04-04,9400,Drugs Wholesale
+Utilities,2012-NaN-16,,CNP,1970-01-02,8827,Diversified Utilities
+Industrial Goods,2012-NaN-16,,GD,1977-01-03,95100,Aerospace/Defense Products & Services
+Technology,2012-NaN-16,,CRM,2004-06-23,7785,Application Software
+Healthcare,2012-NaN-16,,CELG,1990-03-26,4460,Biotechnology
+Financial,2012-NaN-16,,CINF,1990-03-26,4067,Property & Casualty Insurance
+Services,2012-NaN-16,,MCD,1970-01-02,420000,Restaurants
+Financial,2012-NaN-16,,ICE,2005-11-16,1059,Diversified Investments
+Financial,2012-NaN-16,,BLK,1999-NaN-05,9900,Asset Management
+Financial,2012-NaN-16,,TROW,1989-NaN-13,5265,Asset Management
+Technology,2012-NaN-16,,NVDA,1999-01-22,7133,Semiconductor - Specialized
+Services,2012-NaN-16,,KR,1977-01-03,339000,Grocery Stores
+Healthcare,2012-NaN-16,,AMGN,1984-NaN-07,17500,Biotechnology
+Basic Materials,2012-NaN-16,,VLO,1982-01-04,21942,Oil & Gas Refining & Marketing
+Consumer Goods,2012-NaN-16,,KMB,1984-12-17,57000,Personal Products
+Basic Materials,2012-NaN-16,,CNX,1999-04-30,9157,Industrial Metals & Minerals
+Services,2012-NaN-16,,ARG,1986-12-22,15000,Industrial Equipment Wholesale
+Technology,2012-NaN-16,,GLW,1981-12-31,28800,Diversified Electronics
+Healthcare,2012-NaN-16,,PRGO,1991-12-17,8800,Drug Related Products
+Healthcare,2012-NaN-16,,FRX,1988-04-19,5700,Drug Manufacturers - Other
+Consumer Goods,2012-NaN-16,,JCI,1985-03-27,162000,Auto Parts
+Financial,2012-NaN-16,,NTRS,1990-03-26,13900,Regional - Midwest Banks
+Services,2012-NaN-16,,EXPD,1990-03-26,13590,Air Delivery & Freight Services
+Consumer Goods,2012-NaN-16,,MWV,1985-07-01,17000,Packaging & Containers
+Consumer Goods,2012-NaN-16,,VFC,1985-07-01,58000,Textile - Apparel Clothing
+Technology,2012-NaN-16,,LLTC,1990-03-26,4365,Semiconductor - Specialized
+Technology,2012-NaN-16,,TDC,2007-NaN-01,8600,Diversified Computer Systems
+Industrial Goods,2012-NaN-16,,JOY,2001-06-15,14500,Farm & Construction Machinery
+Industrial Goods,2012-NaN-16,,LEN,1987-11-05,4062,Residential Construction
+Basic Materials,2012-NaN-16,,NOV,1996-NaN-29,42183,Oil & Gas Equipment & Services
+Healthcare,2012-NaN-16,,BAX,1981-NaN-27,48500,Medical Instruments & Supplies
+Financial,2012-NaN-16,,GNW,2004-05-25,6400,Life Insurance
+Services,2012-NaN-16,,TIF,1987-12-30,9800,Jewelry Stores
+Technology,2012-NaN-16,,AMAT,1984-NaN-07,12973,Semiconductor Equipment & Materials
+Services,2012-NaN-16,,DLTR,1995-03-09,14170,"Discount, Variety Stores"
+Services,2012-NaN-16,,SYY,1987-07-23,47800,Food Wholesale
+Financial,2012-NaN-16,,EFX,1987-11-05,6500,Credit Services
+Industrial Goods,2012-NaN-16,,DHR,1987-11-05,59000,Diversified Machinery
+Technology,2012-NaN-16,,FTR,1990-03-26,15300,Telecom Services - Domestic
+Financial,2012-NaN-16,,SLM,1988-01-05,6600,Credit Services
+Technology,2012-NaN-16,,VZ,1983-11-21,188200,Telecom Services - Domestic
+Industrial Goods,2012-NaN-16,,PCP,1990-01-12,20780,Metal Fabrication
+Services,2012-NaN-16,,SNI,2008-06-12,1800,Broadcasting - TV
+Technology,2012-NaN-16,,ADP,1983-04-06,57000,Business Software & Services
+Consumer Goods,2012-NaN-16,,NKE,1987-08-19,44000,Textile - Apparel Footwear & Accessories
+Technology,2012-NaN-16,,AMT,1998-06-05,2122,Diversified Communication Services
+Services,2012-NaN-16,,TYC,1987-12-30,102000,Security & Protection Services
+Utilities,2012-NaN-16,,NI,1984-NaN-19,7957,Diversified Utilities
+Services,2012-NaN-16,,GCI,1985-07-01,31000,Publishing - Newspapers
+Utilities,2012-NaN-16,,ED,1970-01-02,15016,Electric Utilities
+Basic Materials,2012-NaN-16,,DNR,1996-01-03,1414,Independent Oil & Gas
+BRK.B
+Consumer Goods,2012-NaN-16,,HOG,1987-11-05,6600,Recreational Vehicles
+Technology,2012-NaN-16,,TXN,1981-12-31,34759,Semiconductor - Broad Line
+Basic Materials,2012-NaN-16,,WPX,2011-12-12,1200,Independent Oil & Gas
+Services,2012-NaN-16,,DRI,1995-05-17,180000,Restaurants
+Healthcare,2012-NaN-16,,CFN,2009-08-21,15000,Medical Instruments & Supplies
+Technology,2012-NaN-16,,IRM,1996-02-01,17000,Business Software & Services
+Financial,2012-NaN-16,,TRV,1986-07-09,30600,Property & Casualty Insurance
+Industrial Goods,2012-NaN-16,,BA,1962-01-02,171700,Aerospace/Defense Products & Services
+Healthcare,2012-NaN-16,,HUM,1981-12-31,40000,Health Care Plans
+Utilities,2012-NaN-16,,GAS,1984-NaN-07,6400,Gas Utilities
+Services,2012-NaN-16,,PDCO,1992-NaN-28,7059,Medical Equipment Wholesale
+Basic Materials,2012-NaN-16,,SUN,1983-04-06,10500,Oil & Gas Refining & Marketing
+Financial,2012-NaN-16,,CB,1984-NaN-07,10100,Property & Casualty Insurance
+Technology,2012-NaN-16,,LSI,1990-01-12,4588,Semiconductor - Specialized
+Basic Materials,2012-NaN-16,,AA,1962-01-02,61000,Aluminum
+Services,2012-NaN-16,,MCO,2000-NaN-04,6486,Business Services
+Industrial Goods,2012-NaN-16,,WM,1991-NaN-30,44300,Waste Management
+Conglomerates,2012-NaN-16,,MMM,1970-01-02,84198,Conglomerates
+Technology,2012-NaN-16,,LXK,1995-11-15,13300,Computer Based Systems
+Utilities,2012-NaN-16,,DTE,1970-01-02,9800,Electric Utilities
+Utilities,2012-NaN-16,,SRE,1998-06-29,17483,Gas Utilities
+Basic Materials,2012-NaN-16,,CF,2005-08-11,2400,Agricultural Chemicals
+Industrial Goods,2012-NaN-16,,SHW,1985-07-01,32988,General Building Materials
+Technology,2012-NaN-16,,ALTR,1988-04-04,2884,Semiconductor - Specialized
+Consumer Goods,2012-NaN-16,,RL,1997-06-12,25000,Textile - Apparel Clothing
+Healthcare,2012-NaN-16,,AET,1977-01-03,33300,Health Care Plans
+Technology,2012-NaN-16,,KLAC,1990-03-26,5710,Semiconductor Equipment & Materials
+Consumer Goods,2012-NaN-16,,HSY,1985-07-01,11800,Confectioners
+Financial,2012-NaN-16,,ZION,1990-03-26,10447,Regional - Pacific Banks
+Technology,2012-NaN-16,,CSC,1981-12-31,98000,Information Technology Services
+Services,2012-NaN-16,,CMCSA,1988-07-07,126000,CATV Systems
+Healthcare,2012-NaN-16,,VAR,1988-01-05,5700,Medical Appliances & Equipment
+Financial,2012-NaN-16,,CME,2002-12-24,2740,Investment Brokerage - National
+Services,2012-NaN-16,,HD,1984-08-20,331000,Home Improvement Stores
+Technology,2012-NaN-16,,CTSH,1998-06-19,145200,Business Software & Services
+Industrial Goods,2012-NaN-16,,LLL,1998-05-19,61000,Aerospace/Defense Products & Services
+Consumer Goods,2012-NaN-16,,K,1984-12-17,30700,Processed & Packaged Goods
+Services,2012-NaN-16,,COST,1986-07-09,92000,"Discount, Variety Stores"
+Financial,2012-NaN-16,,WY,1977-01-03,12800,REIT - Industrial
+Technology,2012-NaN-16,,YHOO,1996-04-12,14100,Internet Information Providers
+Services,2012-NaN-16,,EBAY,1998-NaN-24,27770,Catalog & Mail Order Houses
+Technology,2012-NaN-16,,FSLR,2006-11-17,7000,Semiconductor - Specialized
+Industrial Goods,2012-NaN-16,,HON,1970-01-02,132000,Aerospace/Defense Products & Services
+Technology,2012-NaN-16,,APH,1991-11-08,39100,Diversified Electronics
+Conglomerates,2012-NaN-16,,UTX,1970-01-02,199900,Conglomerates
+Services,2012-NaN-16,,JEC,1990-01-12,45700,Technical Services
+Services,2012-NaN-16,,MHP,1985-07-01,22660,Publishing - Books
+Utilities,2012-NaN-16,,CMS,1984-12-31,7727,Electric Utilities
+Technology,2012-NaN-16,,JBL,1993-05-03,121000,Printed Circuit Boards
+BF.B
+Healthcare,2012-NaN-16,,THC,1982-01-04,43856,Hospitals
+Consumer Goods,2012-NaN-16,,PG,1970-01-02,126000,Personal Products
+Consumer Goods,2012-NaN-16,,STZ,1992-03-17,4400,Beverages - Wineries & Distillers
+Services,2012-NaN-16,,CVC,1992-03-17,15451,CATV Systems
+Services,2012-NaN-16,,MA,2006-05-25,6700,Business Services
+Services,2012-NaN-16,,V,2008-03-19,7500,Business Services
+Technology,2012-NaN-16,,JNPR,1999-06-25,9129,Networking & Communication Devices
+Healthcare,2012-NaN-16,,MYL,1987-12-18,18000,Drugs - Generic
+Financial,2012-NaN-16,,TMK,1987-12-30,2249,Life Insurance
+Basic Materials,2012-NaN-16,,SWN,1987-12-30,2287,Independent Oil & Gas
+Consumer Goods,2012-NaN-16,,DF,2002-01-09,24066,Dairy Products
+Utilities,2012-NaN-16,,EQT,1987-11-05,1835,Gas Utilities
+Services,2012-NaN-16,,ORLY,1993-04-23,32700,Auto Parts Stores
+Industrial Goods,2012-NaN-16,,ITW,1987-11-05,65000,Diversified Machinery
+Services,2012-NaN-16,,YUM,1997-NaN-17,60580,Restaurants
+Healthcare,2012-NaN-16,,MRK,1970-01-02,86000,Drug Manufacturers - Major
+Consumer Goods,2012-NaN-16,,MAT,1982-01-04,28000,Toys & Games
+Utilities,2012-NaN-16,,PEG,2010-03-10,9784,Diversified Utilities
+Financial,2012-NaN-16,,PCL,1989-06-02,1192,REIT - Industrial
+Industrial Goods,2012-NaN-16,,VMC,1988-01-05,N/A,General Building Materials
+Technology,2012-NaN-16,,CCI,1998-08-31,1300,Diversified Communication Services
+Services,2012-NaN-16,,R,1980-01-02,27500,Rental & Leasing Services
+Industrial Goods,2012-NaN-16,,ETN,1985-07-01,73000,Industrial Electrical Equipment
+Industrial Goods,2012-NaN-16,,EMR,1982-01-04,133200,Industrial Equipment & Components
+Services,2012-NaN-16,,UPS,1999-11-10,222020,Air Delivery & Freight Services
+Healthcare,2012-NaN-16,,CI,1982-03-31,31400,Health Care Plans
+Services,2012-NaN-16,,WAG,1985-07-01,176000,Drug Stores
+Utilities,2012-NaN-16,,NU,1984-08-29,6063,Diversified Utilities
+Consumer Goods,2012-NaN-16,,F,1977-01-03,164000,Auto Manufacturers - Major
+Utilities,2012-NaN-16,,OKE,1985-07-01,4795,Gas Utilities
+Services,2012-NaN-16,,WYN,2006-07-19,27800,Lodging
+Conglomerates,2012-NaN-16,,LUK,1987-11-05,11711,Conglomerates
+Basic Materials,2012-NaN-16,,OXY,1981-12-31,11300,Major Integrated Oil & Gas
+Healthcare,2012-NaN-16,,UNH,1990-03-26,99000,Health Care Plans
+Technology,2012-NaN-16,,DNB,1983-06-10,5100,Information & Delivery Services
+Consumer Goods,2012-NaN-16,,CLX,1983-03-21,8400,Housewares & Accessories
+Basic Materials,2012-NaN-16,,DO,1995-NaN-11,5300,Oil & Gas Drilling & Exploration
+Utilities,2012-NaN-16,,WEC,1984-NaN-26,4595,Electric Utilities
+Technology,2012-NaN-16,,A,1999-11-18,20200,Scientific & Technical Instruments
+Services,2012-NaN-16,,NFLX,2002-05-29,2348,Music & Video Stores
+Services,2012-NaN-16,,CCL,1989-01-05,91300,Resorts & Casinos
+Services,2012-NaN-16,,NWSA,1996-03-11,48000,Entertainment - Diversified
+Basic Materials,2012-NaN-16,,SIAL,1990-03-26,9100,Specialty Chemicals
+Utilities,2012-NaN-16,,EXC,1980-01-02,19267,Diversified Utilities
+Services,2012-NaN-16,,SBUX,1992-06-26,149000,Specialty Eateries
+Consumer Goods,2012-NaN-16,,BEAM,1977-01-03,3200,Beverages - Wineries & Distillers
+Services,2012-NaN-16,,FDO,1987-11-05,31000,"Discount, Variety Stores"
+Utilities,2012-NaN-16,,PPL,1985-04-08,17722,Electric Utilities
+Services,2012-NaN-16,,DTV,2003-12-23,25700,CATV Systems
+Basic Materials,2012-NaN-16,,CLF,1987-11-05,7404,Steel & Iron
+Services,2012-NaN-16,,EXPE,2005-07-21,9480,Lodging
+Financial,2012-NaN-16,,MS,1993-02-23,59569,Investment Brokerage - National
+Technology,2012-NaN-16,,MSFT,1986-03-13,94000,Application Software
+Services,2012-NaN-16,,CSX,1980-11-03,31344,Railroads
+Industrial Goods,2012-NaN-16,,SRCL,1996-08-23,10249,Waste Management
+Services,2012-NaN-16,,CMG,2006-01-26,30940,Restaurants
+Healthcare,2012-NaN-16,,MDT,1981-12-31,44944,Medical Appliances & Equipment
+Technology,2012-NaN-16,,MSI,1977-01-03,21000,Communication Equipment
+Financial,2012-NaN-16,,BBT,1990-03-26,31800,Regional - Mid-Atlantic Banks
+Industrial Goods,2012-NaN-16,,CMI,1984-12-18,43900,Diversified Machinery
+Financial,2012-NaN-16,,HCN,1992-03-17,308,REIT - Healthcare Facilities
+Basic Materials,2012-NaN-16,,ESV,1991-01-02,8000,Oil & Gas Drilling & Exploration
+Healthcare,2012-NaN-16,,BDX,1983-04-06,29369,Medical Instruments & Supplies
+Technology,2012-NaN-16,,IBM,1962-01-02,440885,Diversified Computer Systems
+Financial,2012-NaN-16,,AIZ,2004-02-05,14100,Accident & Health Insurance
+Technology,2012-NaN-16,,MU,1989-05-16,26100,Semiconductor- Memory Chips
+Technology,2012-NaN-16,,AAPL,1984-NaN-07,60400,Personal Computers
+Consumer Goods,2012-NaN-16,,PCAR,1986-07-09,23400,Trucks & Other Vehicles
+Basic Materials,2012-NaN-16,,APA,1981-12-31,5299,Independent Oil & Gas
+Financial,2012-NaN-16,,HCP,1987-11-05,147,REIT - Healthcare Facilities
+Services,2012-NaN-16,,WYNN,2002-NaN-25,16400,Resorts & Casinos
+Industrial Goods,2012-NaN-16,,FLIR,1993-06-22,3084,Aerospace/Defense Products & Services
+Utilities,2012-NaN-16,,NRG,2003-12-02,5193,Diversified Utilities
+Healthcare,2012-NaN-16,,COV,2007-06-14,41300,Medical Instruments & Supplies
+Basic Materials,2012-NaN-16,,RDC,1983-04-06,2719,Oil & Gas Drilling & Exploration
+Financial,2012-NaN-16,,CBG,2004-06-10,34000,Property Management
+Basic Materials,2012-NaN-16,,TIE,1996-06-05,2750,Industrial Metals & Minerals
+Consumer Goods,2012-NaN-16,,CCE,1986-11-24,13250,Beverages - Soft Drinks
+Technology,2012-NaN-16,,RHT,1999-08-11,4500,Application Software
+Financial,2012-NaN-16,,AFL,1984-07-19,N/A,Accident & Health Insurance
+Services,2012-NaN-16,,DV,1991-06-28,10863,Education & Training Services
+Services,2012-NaN-16,,SWY,1990-04-26,178000,Grocery Stores
+Basic Materials,2012-NaN-16,,FTI,2001-06-18,14200,Oil & Gas Equipment & Services
+Technology,2012-NaN-16,,ADBE,1986-08-14,9925,Application Software
+Healthcare,2012-NaN-16,,LLY,1982-01-04,38080,Drug Manufacturers - Major
+Basic Materials,2012-NaN-16,,FMC,1985-07-01,5000,Chemicals - Major Diversified
+Technology,2012-NaN-16,,CSCO,1990-03-26,N/A,Networking & Communication Devices
+Financial,2012-NaN-16,,STI,1987-12-30,29182,Money Center Banks
+Industrial Goods,2012-NaN-16,,COL,2001-07-03,20500,Aerospace/Defense Products & Services
+Services,2012-NaN-16,,CAH,1988-01-04,32500,Drugs Wholesale
+Technology,2012-NaN-16,,MOLX,1990-03-26,34226,Diversified Electronics
+Consumer Goods,2012-NaN-16,,CPB,1985-07-01,N/A,Processed & Packaged Goods
+Utilities,2012-NaN-16,,EIX,1980-01-02,19930,Electric Utilities
+Basic Materials,2012-NaN-16,,CAM,1995-07-05,22500,Oil & Gas Equipment & Services
+Services,2012-NaN-16,,WFM,1992-01-23,48200,Grocery Stores
+Services,2012-NaN-16,,URBN,1993-11-09,6970,Apparel Stores
+Services,2012-NaN-16,,RRD,1985-07-01,58000,Business Services
+Basic Materials,2012-NaN-16,,APC,1986-NaN-09,4800,Independent Oil & Gas
+Industrial Goods,2012-NaN-16,,PWR,1998-02-12,17500,General Contractors
+Technology,2012-NaN-16,,ROP,1992-02-13,8570,Scientific & Technical Instruments
+Basic Materials,2012-NaN-16,,QEP,2010-06-16,876,Oil & Gas Drilling & Exploration
+Financial,2012-NaN-16,,GS,1999-05-04,32300,Diversified Investments
+Consumer Goods,2012-NaN-16,,BWA,2011-NaN-30,19250,Auto Parts
+Industrial Goods,2012-NaN-16,,PHM,1985-07-01,3579,Residential Construction
+Services,2012-NaN-16,,VIAB,2005-12-05,10580,CATV Systems
+Services,2012-NaN-16,,KSS,1992-05-19,30000,Department Stores
+Industrial Goods,2012-NaN-16,,XYL,2011-NaN-13,12500,Diversified Machinery
+Consumer Goods,2012-NaN-16,,GT,1970-01-02,73000,Rubber & Plastics
+Industrial Goods,2012-NaN-16,,RTN,1981-12-31,71000,Aerospace/Defense - Major Diversified
+Financial,2012-NaN-16,,AON,1984-NaN-07,62443,Insurance Brokers
+Consumer Goods,2012-NaN-16,,TAP,1984-NaN-07,15078,Beverages - Brewers
+Utilities,2012-NaN-16,,TE,1984-NaN-29,4290,Electric Utilities
+Financial,2012-NaN-16,,HIG,1995-12-18,24400,Property & Casualty Insurance
+Healthcare,2012-NaN-16,,WLP,2001-NaN-30,37700,Health Care Plans
+Services,2012-NaN-16,,KMX,1997-02-04,16460,Auto Dealerships
+Financial,2012-NaN-16,,AVB,1998-06-05,2095,REIT - Residential
+Services,2012-NaN-16,,LUV,1980-01-02,46128,Regional Airlines
+Financial,2012-NaN-16,,ALL,1993-06-03,37000,Property & Casualty Insurance
+Services,2012-NaN-16,,HRB,1986-11-12,2500,Personal Services
+Conglomerates,2012-NaN-16,,CAT,1962-01-02,132825,Conglomerates
+Services,2012-NaN-16,,ANF,1996-NaN-26,10000,Apparel Stores
+Basic Materials,2012-NaN-16,,EOG,1989-NaN-04,2550,Independent Oil & Gas
+Utilities,2012-NaN-16,,SCG,1987-12-30,5889,Electric Utilities
+Technology,2012-NaN-16,,ADSK,1985-07-01,7500,Technical & System Software
+Consumer Goods,2012-NaN-16,,FOSL,1993-04-08,13100,"Recreational Goods, Other"
+Industrial Goods,2012-NaN-16,,DE,1982-01-04,61300,Farm & Construction Machinery
+Consumer Goods,2012-NaN-16,,IP,1970-01-02,61500,Paper & Paper Products
+Consumer Goods,2012-NaN-16,,HAR,1988-NaN-05,11366,Electronic Equipment
+Financial,2012-NaN-16,,PFG,2001-NaN-23,13527,Asset Management
+Financial,2012-NaN-16,,VTR,1997-05-05,328,REIT - Healthcare Facilities
+Technology,2012-NaN-16,,WDC,1987-01-02,103111,Data Storage Devices
+Financial,2012-NaN-16,,HCBK,1999-07-13,1599,Savings & Loans
+Financial,2012-NaN-16,,FITB,1990-03-26,20888,Regional - Midwest Banks
+Healthcare,2012-NaN-16,,ZMH,2001-08-09,8700,Medical Appliances & Equipment
+Financial,2012-NaN-16,,KEY,1987-11-05,15430,Money Center Banks
+Financial,2012-NaN-16,,JPM,1983-12-30,262882,Money Center Banks
+Financial,2012-NaN-16,,AMP,2005-NaN-03,8909,Asset Management
+Industrial Goods,2012-NaN-16,,IR,1985-07-01,52000,Diversified Machinery
+Consumer Goods,2012-NaN-16,,ADM,1983-04-06,30000,Farm Products
+Healthcare,2012-NaN-16,,PFE,1982-01-04,120700,Drug Manufacturers - Major
+Technology,2012-NaN-16,,TER,1987-03-11,3200,Semiconductor Equipment & Materials
+Consumer Goods,2012-NaN-16,,LEG,1987-11-05,18000,Home Furnishings & Fixtures
+Utilities,2012-NaN-16,,SO,1981-12-31,26377,Electric Utilities
+Technology,2012-NaN-16,,GOOG,2004-08-19,54604,Internet Information Providers
+Healthcare,2012-NaN-16,,PKI,1983-04-06,7200,Medical Instruments & Supplies
+Consumer Goods,2012-NaN-16,,MNST,1995-08-18,1047,Beverages - Soft Drinks
+Industrial Goods,2012-NaN-16,,FAST,1990-03-26,13400,General Building Materials
+Consumer Goods,2012-NaN-16,,XRX,1977-01-03,139100,Business Equipment
+Financial,2012-NaN-16,,NYX,2004-08-12,3077,Diversified Investments
+Consumer Goods,2012-NaN-16,,HAS,1984-12-18,5900,Toys & Games
+Industrial Goods,2012-NaN-16,,AVY,1984-NaN-07,30400,Diversified Machinery
+Healthcare,2012-NaN-16,,JNJ,1970-01-02,117900,Drug Manufacturers - Major
+Industrial Goods,2012-NaN-16,,LMT,1977-01-03,123000,Aerospace/Defense Products & Services
+Healthcare,2012-NaN-16,,BSX,1992-05-19,24000,Medical Appliances & Equipment
+Consumer Goods,2012-NaN-16,,CAG,1984-NaN-07,26100,Processed & Packaged Goods
+Basic Materials,2012-NaN-16,,PPG,1983-04-06,38400,Specialty Chemicals
+Services,2012-NaN-16,,WPO,1990-01-24,18000,Education & Training Services
+Healthcare,2012-NaN-16,,LIFE,1999-02-26,10400,Medical Laboratories & Research
+Consumer Goods,2012-NaN-16,,AVP,1981-12-31,40600,Personal Products
+Technology,2012-NaN-16,,FFIV,1999-06-04,2903,Application Software
+Healthcare,2012-NaN-16,,SYK,1988-02-01,21241,Medical Appliances & Equipment
+Healthcare,2012-NaN-16,,XRAY,1991-04-25,11800,Medical Instruments & Supplies
+Financial,2012-NaN-16,,AIV,1994-07-22,2640,REIT - Residential
+Industrial Goods,2012-NaN-16,,SWK,1985-07-01,44700,Machine Tools & Accessories
+Technology,2012-NaN-16,,CA,1984-NaN-07,13600,Application Software
+Utilities,2012-NaN-16,,AEP,1970-01-02,18710,Electric Utilities
+Financial,2012-NaN-16,,VNO,2012-07-13,4823,REIT - Diversified
+Services,2012-NaN-16,,TSS,1989-06-30,8200,Business Services
+Basic Materials,2012-NaN-16,,NEM,1983-04-06,17100,Gold
+Technology,2012-NaN-16,,HRS,1981-12-31,15200,Communication Equipment
+Basic Materials,2012-NaN-16,,NE,1990-03-26,5300,Oil & Gas Drilling & Exploration
+Services,2012-NaN-16,,UNP,1980-01-02,45642,Railroads
+Consumer Goods,2012-NaN-16,,SJM,2000-08-29,4850,Processed & Packaged Goods
+Consumer Goods,2012-NaN-16,,KFT,2001-06-14,126000,Food - Major Diversified
+Services,2012-NaN-16,,GME,2002-02-14,17000,Electronics Stores
+Technology,2012-NaN-16,,INTC,1986-07-09,100100,Semiconductor - Broad Line
+Consumer Goods,2012-NaN-16,,RAI,1999-06-15,5400,Cigarettes
+Services,2012-NaN-16,,FISV,1990-03-26,20000,Business Services
+Industrial Goods,2012-NaN-16,,ROK,1981-12-31,21000,Industrial Electrical Equipment
+Services,2012-NaN-16,,CTAS,1990-03-26,30000,Apparel Stores
+Services,2012-NaN-16,,IPG,1987-11-05,42000,Advertising Agencies
+Basic Materials,2012-NaN-16,,EMN,1993-12-14,10000,Chemicals - Major Diversified
+Consumer Goods,2012-NaN-16,,MJN,2009-02-11,6600,Processed & Packaged Goods
+Consumer Goods,2012-NaN-16,,HNZ,1984-12-17,32200,Food - Major Diversified
+Technology,2012-NaN-16,,MCHP,1993-03-19,6923,Semiconductor - Specialized
+Services,2012-NaN-16,,NSC,1982-06-02,30329,Railroads
+Basic Materials,2012-NaN-16,,XOM,1970-01-02,82100,Major Integrated Oil & Gas
+Financial,2012-NaN-16,,IVZ,1995-08-25,6141,Asset Management
+Utilities,2012-NaN-16,,NEE,1983-06-10,14500,Electric Utilities
+Technology,2012-NaN-16,,CTL,1987-11-05,47100,Telecom Services - Domestic
+Consumer Goods,2012-NaN-16,,ECL,1988-01-05,40200,Cleaning Products
+Financial,2012-NaN-16,,L,1987-07-10,18250,Property & Casualty Insurance
+Basic Materials,2012-NaN-16,,PXD,1997-08-08,3304,Independent Oil & Gas
+Technology,2012-NaN-16,,WIN,2005-02-09,14638,Telecom Services - Domestic
+Industrial Goods,2012-NaN-16,,PH,1985-07-01,59331,Industrial Equipment & Components
+Financial,2012-NaN-16,,HST,1983-04-06,219,REIT - Hotel/Motel
+Services,2012-NaN-16,,GPC,1983-04-06,29800,Auto Parts Wholesale
+Financial,2012-NaN-16,,BEN,1984-NaN-07,8600,Asset Management
+Industrial Goods,2012-NaN-16,,PLL,1991-08-21,N/A,Diversified Machinery
+Industrial Goods,2012-NaN-16,,GE,1962-01-02,301000,Diversified Machinery
+Healthcare,2012-NaN-16,,CVH,1991-04-17,14400,Health Care Plans
+Basic Materials,2012-NaN-16,,KMI,2011-02-11,8120,Oil & Gas Pipelines
+Services,2012-NaN-16,,BBY,1985-04-19,167000,Electronics Stores
+Services,2012-NaN-16,,GPS,1987-07-23,132000,Apparel Stores
+Basic Materials,2012-NaN-16,,BHI,1987-04-07,58500,Oil & Gas Equipment & Services
+Financial,2012-NaN-16,,ACE,1993-03-26,16500,Property & Casualty Insurance
+Healthcare,2012-NaN-16,,TMO,1987-NaN-01,39300,Medical Instruments & Supplies
+Healthcare,2012-NaN-16,,WAT,1995-11-17,5672,Medical Appliances & Equipment
+Services,2012-NaN-16,,TGT,1983-04-06,365000,"Discount, Variety Stores"
+Healthcare,2012-NaN-16,,HSP,2004-05-03,15000,Drug Delivery
+Industrial Goods,2012-NaN-16,,FLS,1990-03-26,16500,Diversified Machinery
+Technology,2012-NaN-16,,ACN,2001-07-20,249000,Information Technology Services
+Technology,2012-NaN-16,,LRCX,1990-03-26,6600,Semiconductor Equipment & Materials
+Services,2012-NaN-16,,JWN,1986-07-09,61500,Apparel Stores
+Financial,2012-NaN-16,,BK,1984-NaN-07,48200,Asset Management
+Financial,2012-NaN-16,,STT,1986-07-09,29665,Regional - Northeast Banks
+Basic Materials,2012-NaN-16,,RRC,1992-12-28,756,Independent Oil & Gas
+Technology,2012-NaN-16,,EA,1990-03-26,9200,Multimedia & Graphics Software
+Healthcare,2012-NaN-16,,BMY,1977-01-03,27000,Drug Manufacturers - Major
+Technology,2012-NaN-16,,JDSU,1993-11-17,4950,Communication Equipment
+Industrial Goods,2012-NaN-16,,ATI,1999-11-30,11400,Metal Fabrication
+Basic Materials,2012-NaN-16,,BTU,2001-05-22,8300,Industrial Metals & Minerals
+Basic Materials,2012-NaN-16,,FCX,1995-07-10,31800,Copper
+Services,2012-NaN-16,,GWW,1984-12-17,20000,Industrial Equipment Wholesale
+Basic Materials,2012-NaN-16,,CHK,1993-02-16,12600,Independent Oil & Gas
+Consumer Goods,2012-NaN-16,,PM,2008-03-17,78100,Cigarettes
+Healthcare,2012-NaN-16,,DVA,1995-NaN-31,41000,Specialized Health Services
+Consumer Goods,2012-NaN-16,,PBI,1982-01-04,28700,Business Equipment
+Conglomerates,2012-NaN-16,,DOW,1977-01-03,51528,Conglomerates
+Utilities,2012-NaN-16,,D,1984-NaN-03,15800,Electric Utilities
+Financial,2012-NaN-16,,NDAQ,2002-07-02,2519,Diversified Investments
+Consumer Goods,2012-NaN-16,,GIS,1983-06-10,35000,Processed & Packaged Goods
+Basic Materials,2012-NaN-16,,WMB,1981-12-31,4293,Oil & Gas Pipelines
+Consumer Goods,2012-NaN-16,,OI,1991-12-11,24000,Packaging & Containers
+Healthcare,2012-NaN-16,,ABT,1983-04-06,91000,Drug Manufacturers - Major
+Financial,2012-NaN-16,,MMC,1987-12-30,53000,Insurance Brokers
+Technology,2012-NaN-16,,STX,2002-12-12,57900,Data Storage Devices
+Services,2012-NaN-16,,BBBY,1992-06-05,48000,Home Furnishing Stores
+Technology,2012-NaN-16,,PCS,2007-04-19,3700,Wireless Communications
+Financial,2012-NaN-16,,EQR,1993-08-12,3800,REIT - Residential
+Services,2012-NaN-16,,M,1992-02-05,171000,Department Stores
+Services,2012-NaN-16,,FDX,1980-01-02,230600,Air Delivery & Freight Services
+Basic Materials,2012-NaN-16,,TSO,1983-04-06,5400,Oil & Gas Refining & Marketing
+Technology,2012-NaN-16,,ORCL,1988-03-02,115000,Application Software
+Industrial Goods,2012-NaN-16,,TXT,1984-NaN-24,32000,Aerospace/Defense - Major Diversified
+Basic Materials,2012-NaN-16,,HP,1987-11-05,8707,Oil & Gas Drilling & Exploration
+Financial,2012-NaN-16,,BXP,1997-06-18,700,REIT - Office
+Technology,2012-NaN-16,,S,1984-11-08,40000,Wireless Communications
+Healthcare,2012-NaN-16,,ISRG,2000-06-23,2100,Medical Appliances & Equipment
+Basic Materials,2012-NaN-16,,COP,1982-01-04,16500,Major Integrated Oil & Gas
+Utilities,2012-NaN-16,,PCG,1980-01-02,19274,Electric Utilities
+Basic Materials,2012-NaN-16,,IFF,1981-12-31,5644,Specialty Chemicals
+Services,2012-NaN-16,,SAI,2006-NaN-17,41100,Technical Services
+Consumer Goods,2012-NaN-16,,MO,1970-01-02,9900,Cigarettes
+Financial,2012-NaN-16,,PGR,1986-07-09,25007,Property & Casualty Insurance
+Technology,2012-NaN-16,,NTAP,1995-11-21,12149,Data Storage Devices
+Services,2012-NaN-16,,APOL,1995-01-04,56470,Education & Training Services
+Basic Materials,2012-NaN-16,,CVX,1970-01-02,61000,Major Integrated Oil & Gas
+Services,2012-NaN-16,,AZO,1991-04-02,37050,Auto Parts Stores
+Financial,2012-NaN-16,,HBAN,1990-03-26,11417,Regional - Midwest Banks
+Services,2012-NaN-16,,CVS,1984-12-17,202000,Drug Stores
+Financial,2012-NaN-16,,LM,1987-11-05,2979,Asset Management
+Basic Materials,2012-NaN-16,,DVN,1992-03-17,5200,Independent Oil & Gas
+Healthcare,2012-NaN-16,,ALXN,1996-02-28,1008,Biotechnology
+Services,2012-NaN-16,,BIG,1987-11-05,13200,"Discount, Variety Stores"
+Basic Materials,2012-NaN-16,,HAL,1981-12-31,70000,Oil & Gas Equipment & Services
+Technology,2012-NaN-16,,TRIP,2011-12-07,1250,Internet Information Providers
+Technology,2012-NaN-16,,VRSN,1998-01-30,1075,Application Software
+Financial,2012-NaN-16,,WFC,1984-11-01,264400,Money Center Banks
+Technology,2012-NaN-16,,CERN,1990-03-26,9900,Healthcare Information Services
+Basic Materials,2012-NaN-16,,X,1991-04-12,43000,Steel & Iron
+Utilities,2012-NaN-16,,ETR,1981-12-31,14682,Electric Utilities
+Services,2012-NaN-16,,RHI,1992-03-10,11300,Staffing & Outsourcing Services
+Utilities,2012-NaN-16,,PNW,1984-07-19,6663,Electric Utilities
+Healthcare,2012-NaN-16,,LH,1990-03-29,31000,Medical Laboratories & Research
+Financial,2012-NaN-16,,COF,1994-11-16,37400,Credit Services
+Consumer Goods,2012-NaN-16,,SEE,1987-12-30,26300,Packaging & Containers
+Services,2012-NaN-16,,LTD,1985-07-01,18000,Apparel Stores
+Consumer Goods,2012-NaN-16,,HRL,1990-01-02,19700,Meat Products
+Industrial Goods,2012-NaN-16,,SNA,1985-07-01,11500,Small Tools & Accessories
+Basic Materials,2012-NaN-16,,SE,2007-01-03,5700,Oil & Gas Pipelines
+Financial,2012-NaN-16,,PSA,1987-12-30,5000,REIT - Diversified
+Healthcare,2012-NaN-16,,BIIB,1991-NaN-17,5000,Biotechnology
+Technology,2012-NaN-16,,XLNX,1990-06-18,3265,Semiconductor - Specialized
+Basic Materials,2012-NaN-16,,MOS,2002-04-09,8000,Specialty Chemicals
+Services,2012-NaN-16,,PAYX,1990-03-26,12400,Staffing & Outsourcing Services
+Consumer Goods,2012-NaN-16,,CL,1977-01-03,38600,Personal Products
+Financial,2012-NaN-16,,AIG,1984-NaN-07,57000,Property & Casualty Insurance
+Basic Materials,2012-NaN-16,,NUE,1983-NaN-01,20800,Steel & Iron
+Basic Materials,2012-NaN-16,,SLB,1981-12-31,113000,Oil & Gas Equipment & Services
+Consumer Goods,2012-NaN-16,,BMS,1984-NaN-07,20165,Packaging & Containers
+Services,2012-NaN-16,,DIS,1962-01-02,156000,Entertainment - Diversified
+Healthcare,2012-NaN-16,,ESRX,1992-06-09,13120,Health Care Plans
+Services,2012-NaN-16,,FIS,2001-NaN-04,32000,Business Services
+Technology,2012-NaN-16,,INTU,1993-03-22,8000,Application Software
+Financial,2012-NaN-16,,MTB,1991-NaN-04,14629,Regional - Northeast Banks
+Technology,2012-NaN-16,,QCOM,1991-12-16,21200,Communication Equipment
+Financial,2012-NaN-16,,XL,1991-07-19,3818,Property & Casualty Insurance
+Consumer Goods,2012-NaN-16,,EL,1995-11-17,38500,Personal Products
+Services,2012-NaN-16,,MAR,1993-NaN-13,120000,Lodging
