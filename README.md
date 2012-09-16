@@ -1,2 +1,10 @@
 tickertracker
 =============
+
+     python stocks.py
+
+
+
+
+
+
