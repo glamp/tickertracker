@@ -1,8 +1,9 @@
-import yql
 import urllib2, urllib
 import json
 import pprint as pp
 import random
+import time
+from datetime import datetime
 
 def get_json(url):
     try:
@@ -15,11 +16,7 @@ def get_json(url):
 
 APIKEY = "6YRmn23V34GpcTPULtAmjh.hzXNAh1bcGEL0bl5p6EwUqm25o_FyQZyQrCxisg--"
 
-y = yql.Public()
-
 base_uri = "http://query.yahooapis.com/v1/public/yql?"
-
-
 
 # define some stocks
 stocks = [line.strip() for line in open('tickers.txt').read().split('\n')]
@@ -27,6 +24,8 @@ stocks = [line.strip() for line in open('tickers.txt').read().split('\n')]
 stocks = ["'" + stock + "'" for stock in stocks]
 
 random.shuffle(stocks)
+
+f = open('../flatfiles/stockdata.json', 'wb')
 
 for block in range(0, len(stocks), 150):
     stocks_subset = stocks[block:block+150]
@@ -51,8 +50,13 @@ for block in range(0, len(stocks), 150):
         quotes = rsp['query']['results']['quote']
 
     for quote in quotes:
-        pp.pprint(quote)
+	quote['timestamp'] = int(time.time())
+        quote['datestamp'] = str(datetime.now())
+	pp.pprint(quote)
+        f.write(json.dumps(quote) + '\n')
         print "*"*80
+
+f.close()
 
 
 
