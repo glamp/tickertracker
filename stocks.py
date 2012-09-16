@@ -5,7 +5,13 @@ import random
 import time
 from datetime import datetime
 import os
+import re
 
+def convert_dataypes(x):
+    try:
+        return float(re.sub('[$-+]', '', x))
+    except Exception, e:
+        return x
 
 def get_json(url):
     try:
@@ -53,9 +59,12 @@ for block in range(0, len(stocks), 150):
         quotes = rsp['query']['results']['quote']
 
     for quote in quotes:
-	quote['timestamp'] = int(time.time())
+        for col in quote:
+            quote[col] = convert_dataypes(quote[col])
+
+        quote['timestamp'] = int(time.time())
         quote['datestamp'] = str(datetime.now())
-	pp.pprint(quote)
+        pp.pprint(quote)
         f.write(json.dumps(quote) + '\n')
         print "*"*80
 
