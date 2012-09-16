@@ -4,6 +4,8 @@ import pprint as pp
 import random
 import time
 from datetime import datetime
+import os
+
 
 def get_json(url):
     try:
@@ -13,13 +15,14 @@ def get_json(url):
         rsp = {}
     return rsp
 
+dirname, filename = os.path.split(os.path.abspath(__file__))
 
 APIKEY = "6YRmn23V34GpcTPULtAmjh.hzXNAh1bcGEL0bl5p6EwUqm25o_FyQZyQrCxisg--"
 
 base_uri = "http://query.yahooapis.com/v1/public/yql?"
 
 # define some stocks
-stocks = [line.strip() for line in open('tickers.txt').read().split('\n')]
+stocks = [line.strip() for line in open(dirname + '/tickers.txt').read().split('\n')]
 #encapsulate for the query
 stocks = ["'" + stock + "'" for stock in stocks]
 
