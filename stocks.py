@@ -34,7 +34,7 @@ stocks = ["'" + stock + "'" for stock in stocks]
 
 random.shuffle(stocks)
 
-f = open('../flatfiles/stockdata.json', 'wb')
+f = open(dirname + '/flatfiles/stockdata.json', 'wb')
 
 for block in range(0, len(stocks), 150):
     stocks_subset = stocks[block:block+150]
